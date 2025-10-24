@@ -1,5 +1,5 @@
 /*David Alejandro Martínez Vega L´Englisse
-clase 3 ejercicio 1*/
+clase 3 ejercicio 4*/
 
 #include <stdio.h>
 
