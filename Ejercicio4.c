@@ -5,8 +5,10 @@ clase 3 ejercicio 1*/
 
 void main() 
 {
-    for (int i = 1; i <= 100; i++) {
-        if (i % 3 == 0) {
+    for (int i = 1; i <= 100; i++) 
+    {
+        if (i % 3 == 0) 
+        {
             printf("Num: %d\n", i);
         }
     }
